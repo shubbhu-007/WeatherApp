@@ -12,7 +12,7 @@
     --main-color:#0097e6;
 }
 html{
-    font-size:85%;
+    font-size:65%;
 }
 body{
     height:100vh;
@@ -196,13 +196,7 @@ footer p{
     font-size:1.6rem;
     
 }
-/* #today_data{
-    padding-left: 50%;
-}
-#today_month{
-    padding-right:10%;
-    
-} */
+
 
 
 .main_layer{
